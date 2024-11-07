@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Hugo Pomares-Millan",
+    "position": "Postdoctoral Research Fellow",
+    "image": "",
+    "email": "hugo.pomares@gmail.com",
+    "phone": "(603) 322-1960",
+    "url": "https://HugoPomaresMillan.github.io",
+    "summary": "I am a Postdoctoral Research Fellow with expertise in genetic epidemiology, public health, and regulatory and medical affairs": {
+      "address": "1 Medical Center Drive, Williamson Translational Research Building, 7th Floor",
+      "postalCode": "NH 03756",
+      "city": "Lebanon",
+      "countryCode": "US",
+      "region": "New Hampshire"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Department of Epidemiology, Geisel School of Medicine at Dartmouth",
+      "position": "Postdoctoral Research Fellow",
+      "url": "https://geiselmed.dartmouth.edu/epidemiology/profile/hugo-pomares-millan-phd/",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "COFEPRIS Regulatory agency, Ministry of Health, Mexico",
+      "position": "Manager of the New Molecules department",
+      "url": "https://www.gob.mx/salud/prensa/la-secretaria-de-salud-autoriza-27-nuevas-medicinas-para-tratar-enfermedades-cronicas",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": "During my supervision, we created the Subcommittee for the Evaluation of New Drugs in Development (SENMD) to foster local new developments and we authorized for the first time in the world the dengue vaccine"
+    },
+    {
+      "name": "COFEPRIS Regulatory agency, Ministry of Health, Mexico",
+      "position": "Medical Officer",
+      "startDate": "2015",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "COFEPRIS Regulatory agency, Ministry of Health, Mexico",
+      "position": "Medical Reviewer",
+      "startDate": "2012",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Unilever Mexico S de RL",
+      "position": "Occupational Health trainee",
+      "startDate": "2011",
+      "endDate": "2010",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lund University",
+      "url": "https://portal.research.lu.se/en/organisations/genetic-and-molecular-epidemiology",
+      "area": "Genetic and Molecular Epidemiology",
+      "studyType": "PhD",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lund University",
+      "url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-VAPHE",
+      "area": "Public Health",
+      "studyType": "Master of Science",
+      "startDate": "2016",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Autonomous University of Mexico",
+      "url": "https://www.zaragoza.unam.mx/posgrado/especializacion-salud-trabajo/",
+      "area": "Occupational Health",
+      "studyType": "Specialization",
+      "startDate": "2011",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Autonomous University of Mexico",
+      "url": "https://www.unaminternacional.unam.mx/en/unam",
+      "area": "Medicine",
+      "studyType": "Medical degree",
+      "startDate": "2005",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Postdoc Professional Development Award",
+      "date": "2024",
+      "awarder": "Guarini School of Graduate and Advanced Studies, Dartmouth",
+      "summary": ""
+    },
+    {
+      "title": "Travel award",
+      "date": "2023",
+      "awarder": "Guarini School of Graduate and Advanced Studies, Dartmouth",
+      "summary": ""
+    }, 
+    {
+      "title": "Travel award",
+      "date": "2020-2022",
+      "awarder": "Faculty of medicine, Lund University",
+      "summary": ""
+    },
+    {
+      "title": "Global Scholarship award ",
+      "date": "2016-2018",
+      "awarder": "Lund University",
+      "summary": ""
+    }, 
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Intermediate speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Baking and cooking"
+    },
+    {
+      "name": "Table tennis"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Hiking"
+    }
+  ],
+  "references": [],
+  "projects": []
+}
