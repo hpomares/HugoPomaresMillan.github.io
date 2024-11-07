@@ -1,0 +1,12 @@
+github_users:
+  - hpomares
+
+repo_description_lines_max: 2
+
+github_repos:
+  - hpomares/2SMR_Drug_BC 
+  - hpomares/updated_MA_GI_GL_BC 
+  - hpomares/clustering_analysis 
+  - hpomares/Two_Sample_MR 
+  - hpomares/coloc
+
