@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hugo's website"
+title                    : "Hugo's' website"
 title_separator          : "-"
 name                     : &name "Hugo Pomares-Millan"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "YHugo Pomares-Millan "
-  pronouns         : # example: "he/him"  
-  bio              : "I am a Postdoctoral Research Fellow with expertise in genetic epidemiology, public health, and regulatory and medical affairs."
+  name             : "Hugo Pomares-Millan "
+  pronouns         : "he/him"  
+  bio              : #"I am a Postdoctoral Research Fellow with expertise in genetic epidemiology, public health, and regulatory and medical affairs."
   location         : "Lebanon/Hanover,NH"
   employer         : "Dartmouth College"
   uri              : "https://geiselmed.dartmouth.edu/epidemiology/profile/hugo-pomares-millan-phd/"
