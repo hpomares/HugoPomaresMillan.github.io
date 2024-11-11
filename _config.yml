@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hugo's' website"
+title                    : "Hugo's website"
 title_separator          : "-"
 name                     : &name "Hugo Pomares-Millan"
 description              : &description "personal description"
