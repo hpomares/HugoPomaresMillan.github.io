@@ -12,7 +12,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "CV"
+    url: /files/Resume_Hugo_Pomares.pdf
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -20,8 +23,5 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /files/Resume_Hugo_Pomares.pdf
-    
 #  - title: "Guide"
-    url: /markdown/
+#    url: /markdown/
