@@ -6,7 +6,7 @@
 
 main:
   - title: "Work"
-    url: /pages/work.md  
+    url: /portfolio/work.md  
     
   - title: "Publications"
     url: /publications/  
