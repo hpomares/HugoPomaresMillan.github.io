@@ -5,9 +5,6 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Work"
-    url: /portfolio/ 
-    
   - title: "Publications"
     url: /publications/  
 
@@ -16,12 +13,16 @@ main:
     
   - title: "CV"
     url: /files/Resume_Hugo_Pomares.pdf
+
+  - title: "Work"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-#  - title: "Guide"
-#    url: /markdown/
