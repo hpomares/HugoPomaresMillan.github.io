@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hugo_photo.png"
   name             : "Hugo Pomares-Millan "
   pronouns         : "he/him"  
   bio              : #"I am a Postdoctoral Research Fellow with expertise in genetic epidemiology, public health, and regulatory and medical affairs."
