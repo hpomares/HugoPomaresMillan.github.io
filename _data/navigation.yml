@@ -6,7 +6,7 @@
 
 main:
   - title: "Work"
-    url: /files/work.md 
+    url: /posts/
 
   - title: "Publications"
     url: /publications/  
@@ -15,7 +15,7 @@ main:
 #    url: /teaching/    
     
   - title: "Education"
-    url: /pages/
+    url: /posts/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
