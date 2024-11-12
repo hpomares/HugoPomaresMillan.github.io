@@ -6,13 +6,13 @@
 
 main:
   - title: "Work"
-    url: /portfolio/  
+    url: /pages/  
     
   - title: "Publications"
     url: /publications/  
 
   - title: "Teaching"
-    url: /teaching/
+    url: /pages/
     
   - title: "CV"
     url: /files/Resume_Hugo_Pomares.pdf
