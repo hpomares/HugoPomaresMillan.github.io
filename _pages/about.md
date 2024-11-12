@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me 👋
+## Hi there 👋,
 
 * I am a Postdoctoral Research Fellow with expertise in genetic epidemiology, public health, and regulatory and medical affairs.
 My work centers on studying exposomics, including lifestyle factors, and assessing health risks in genetically predisposed populations.
