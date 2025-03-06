@@ -1,9 +1,9 @@
 ---
-title: "Medical Doctor degree"
+title: "Teaching experience 1"
 collection: teaching
-type: "MD"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "National Autonomous University of Mexico"
-date: 2011
-location: "Mexico City, Mexico"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
