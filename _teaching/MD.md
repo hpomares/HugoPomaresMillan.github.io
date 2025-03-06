@@ -1,9 +1,9 @@
 ---
-title: "Doctoral degree"
+title: "Doctor in Medicine (MD) degree"
 collection: teaching
-type: "Undergraduate course"
+type: "Professional licensing"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Lund University, Genetic and Molecular Epidemiology unit"
-date: October 2022
-location: "Lund, Sweden"
+venue: "National Autonomous University of Mexico (UNAM), Mexico City"
+date: 2005 - 2011
+location: "Mexico City, Mexico"
 ---
