@@ -1,9 +1,9 @@
 ---
-title: "Doctoral degree"
+title: "Masters in Public Health"
 collection: teaching
-type: "PHD"
+type: "MPH"
 permalink: /teaching/2014-spring-teaching-3
-venue: "Lund University, Department"
-date: 2022-10-01
-location: "Lund, sWEDEN"
+venue: "Lund University"
+date: 2018-05-01
+location: "Lund, Sweden"
 ---
