@@ -1,12 +1,13 @@
+
 ---
-title: "Plasma Concentrations of Multiple Oxysterols and Risk of Colorectal Adenomas"
+title: "An Investigation of Causal Relationships between Prediabetes and Vascular Complications"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-01-plasma-concentrations
-excerpt: 'This paper explores the relationship between circulating oxysterols and the risk of colorectal adenomas.'
-date: 2024-11-01
-venue: 'Cancer Prevention Research'
+permalink: /publication/2020-09-01-investigation-causal
+excerpt: 'This paper investigates causal relationships between prediabetes and vascular complications.'
+date: 2020-09-01
+venue: 'Nature Communications'
 slidesurl: 'http://example.com/slides.pdf'  # Replace with actual slides URL if available
-paperurl: 'https://doi.org/10.1158/1940-6207.CAPR-24-0108'
-citation: 'Passarelli, M. N., McDonald, J. G., Thompson, B. M., Pomares-Millan, H., Palys, T. J., Rees, J. R., Barry, E. L. (2024). &quot;Plasma Concentrations of Multiple Oxysterols and Risk of Colorectal Adenomas.&quot; <i>Cancer Prevention Research</i>, 17(11), 517–524.'
+paperurl: 'https://doi.org/10.1038/s41467-020-18386-9'
+citation: 'Mutie, P. M.*, Pomares-Millan, H.*, Atabaki-Pasdar, N., Jordan, N., Adams, R., Daly, N. L., ... Franks, P. W. (2020). &quot;An Investigation of Causal Relationships between Prediabetes and Vascular Complications.&quot; <i>Nature Communications</i>, 11(1), 4592.'
 ---
