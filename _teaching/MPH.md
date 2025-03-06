@@ -1,8 +1,9 @@
 ---
-title: "Master in Public Health degree"
+title: "Medical Doctor degree"
 collection: teaching
-type: "MPH"
-venue: "Lund University, Genetic and Molecular Epidemiology Unit"
-date: 2018-06-01
-location: "Lund, Sweden"
+type: "MD"
+permalink: /teaching/2014-spring-teaching-1
+venue: "National Autonomous University of Mexico"
+date: 2011
+location: "Mexico City, Mexico"
 ---
