@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Medical Doctor"
 collection: teaching
-type: "Undergraduate course"
+type: "MD"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2011-01-01
+location: "Mexico City, Mexico"
 ---
