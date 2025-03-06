@@ -6,7 +6,6 @@ permalink: /publication/2020-09-01-investigation-causal
 excerpt: 'This paper investigates causal relationships between prediabetes and vascular complications, revealing that prediabetes is causally related to coronary artery disease but not other diabetes complications.'
 date: 2020-09-01
 venue: 'Nature Communications'
-slidesurl: 'http://example.com/slides.pdf'  # Replace with actual slides URL if available
 paperurl: 'https://doi.org/10.1038/s41467-020-18386-9'
 citation: 'Mutie, P. M.*, Pomares-Millan, H.*, Atabaki-Pasdar, N., Jordan, N., Adams, R., Daly, N. L., ... Franks, P. W. (2020). &quot;An Investigation of Causal Relationships between Prediabetes and Vascular Complications.&quot; <i>Nature Communications</i>, 11(1), 4592.'
 ---
