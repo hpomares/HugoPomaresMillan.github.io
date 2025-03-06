@@ -1,8 +1,9 @@
 ---
-title: "Doctoral degree"
+title: "Medical Doctor degree"
 collection: teaching
-type: "PhD"
-venue: "Lund University, Genetic and Molecular Epidemiology Unit"
-date: 2022-10-01
-location: "Lund, Sweden"
+type: "MD"
+permalink: /teaching/2014-spring-teaching-1
+venue: "National Autonomous University of Mexico"
+date: 2011
+location: "Mexico City, Mexico"
 ---
