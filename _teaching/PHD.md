@@ -1,5 +1,5 @@
 ---
-title: "Doctoral (PhD) degree"
+title: "Doctoral degree"
 collection: teaching
 type: "On-site course"
 permalink: /teaching/2014-spring-teaching-1
