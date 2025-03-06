@@ -1,7 +1,7 @@
 ---
-title: "Medical Doctor (MD) degree"
+title: "Medical Doctor degree"
 collection: teaching
-type: "On-site course"
+type: "MD"
 permalink: /teaching/2014-spring-teaching-1
 venue: "National Autonomous University of Mexico"
 date: 2011
