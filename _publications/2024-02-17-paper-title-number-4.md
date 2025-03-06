@@ -6,7 +6,6 @@ permalink: /publication/2022-03-01-estimating-direct
 excerpt: 'This paper estimates the direct effect of dietary macronutrients on cardiometabolic disease, accounting for mediation by adiposity and physical activity.'
 date: 2022-03-01
 venue: 'Nutrients'
-slidesurl: 'http://example.com/slides.pdf'  # Replace with actual slides URL if available
 paperurl: 'https://doi.org/10.3390/nu14061218'
 citation: 'Pomares-Millan, H., Atabaki-Pasdar, N., Coral, D., Johansson, I., Giordano, G. N., Franks, P. W. (2022). &quot;Estimating the Direct Effect between Dietary Macronutrients and Cardiometabolic Disease, Accounting for Mediation by Adiposity and Physical Activity.&quot; <i>Nutrients</i>, 14(6), 1218.'
 ---
