@@ -1,5 +1,5 @@
 ---
-title: "Doctoral degree"
+title: "Doctoral degree in Public Health"
 collection: teaching
 type: "PhD"
 permalink: /teaching/2014-spring-teaching-2
