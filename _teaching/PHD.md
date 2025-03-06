@@ -1,9 +1,9 @@
 ---
 title: "Doctoral degree"
 collection: teaching
-type: "On-site course"
+type: "PhD"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Lund University"
-date: October 2022
+venue: "Lund University, Genetic and Molecular Epidemiology Unit"
+date: 2022-10-01
 location: "Lund, Sweden"
 ---
