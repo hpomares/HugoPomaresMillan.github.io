@@ -1,5 +1,5 @@
 ---
-title: "Master's in Public Health degree"
+title: "Master's in Public Health (MPH) degree"
 collection: teaching
 type: "On-site course"
 permalink: /teaching/2014-spring-teaching-1
