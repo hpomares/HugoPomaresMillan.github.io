@@ -1,9 +1,9 @@
 ---
-title: "Medical Doctor"
+title: "Doctoral studies"
 collection: teaching
-type: "MD"
+type: "PhD"
 permalink: /teaching/2014-spring-teaching-1
-venue: "National Autonomous University of Mexico"
+venue: "Lund University of Mexico"
 date: 2011-01-01
 location: "Mexico City, Mexico"
 ---
