@@ -1,10 +1,9 @@
-
 ---
 title: "An Investigation of Causal Relationships between Prediabetes and Vascular Complications"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-09-01-investigation-causal
-excerpt: 'This paper investigates causal relationships between prediabetes and vascular complications.'
+excerpt: 'This paper investigates causal relationships between prediabetes and vascular complications, revealing that prediabetes is causally related to coronary artery disease but not other diabetes complications.'
 date: 2020-09-01
 venue: 'Nature Communications'
 slidesurl: 'http://example.com/slides.pdf'  # Replace with actual slides URL if available
