@@ -1,9 +1,9 @@
 ---
 title: "Medical Doctor"
 collection: teaching
-type: "Undergraduate course"
+type: "MD degree"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Lund University, GAME unit"
+date: 2022-10-01
+location: "Lund, Sweden"
 ---
